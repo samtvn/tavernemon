@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/update-pack.yml"
-hash = "64ede16978f6775266d8d680df73b5a32ccf206205d073059be5e3c0aa796223"
-
-[[files]]
 file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
 hash = "1a7bbcdb24528db66a7ff429924588d307374e38d13ea1965a2f516edc1d711f"
 
