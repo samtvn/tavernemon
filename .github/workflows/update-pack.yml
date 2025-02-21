@@ -1,0 +1,30 @@
+name: Auto Update Packwiz
+
+on:
+  push:
+    branches:
+      - main  # Change this if you're using a different branch
+  workflow_dispatch:  # Allows manual runs
+
+jobs:
+  update-packwiz:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Packwiz
+        run: |
+          curl -L https://github.com/packwiz/packwiz/releases/latest/download/packwiz-linux-amd64 -o packwiz
+          chmod +x packwiz
+          
+      - name: Refresh Packwiz Pack
+        run: ./packwiz refresh
+      
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Auto-update Packwiz modpack" || echo "No changes to commit"
+          git push
