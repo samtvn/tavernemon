@@ -626,11 +626,6 @@ hash = "d51fa3a0a09359b093b08faf0e3b12c00278868ff62c1c0ee077b48a72a35d54"
 metafile = true
 
 [[files]]
-file = "mods/ati-structures-fabricforge.pw.toml"
-hash = "385fe9e2de31d0e989791e79751364fe4db19d915d13d320a5ca62ba5ca117d2"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "80472ed95c490b2e5a828c769f30a1b4ed2b8c502ac2d0f577f1c838aaf7ec5e"
 metafile = true
