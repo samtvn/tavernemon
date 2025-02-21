@@ -816,11 +816,6 @@ hash = "c9b9ccf37e8aa04a7ec79870f0aab9b80c22e2a7e023aae34d47205d35a4b385"
 metafile = true
 
 [[files]]
-file = "mods/datapack-injector.pw.toml"
-hash = "d036c206a37977e7419ef04fba915004631807ddbee0cfab17a31e8a0e10f28b"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "e3dbc76d36c6fdca359b48d56d179da8399dc928dd1ff4d265041eae0d89c480"
 metafile = true
@@ -903,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "b9e060d457f82d2a27f2b78886f71d24d296c070daa201523d7993b193b632b7"
+metafile = true
+
+[[files]]
+file = "mods/globalize.pw.toml"
+hash = "d9b52abae06c77da2947ae9629264c07b4609aaf0f2940231afc006d23e621f3"
 metafile = true
 
 [[files]]
