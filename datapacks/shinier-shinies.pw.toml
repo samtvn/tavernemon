@@ -1,0 +1,13 @@
+name = "Shinier Shinies"
+filename = "Shinier Shinies v1.1 [1.20.1-v1.4+].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXZALOTh/versions/n0kCcm16/Shinier%20Shinies%20v1.1%20%5B1.20.1-v1.4%2B%5D.zip"
+hash-format = "sha512"
+hash = "5c07d89bcaa40bea8b17fd2736e3ab2432aa702751ce86109def3907e851bf9303198f6e405f25342145aee1d022709553c756dfce98327d35e4b874f61df30a"
+
+[update]
+[update.modrinth]
+mod-id = "aXZALOTh"
+version = "n0kCcm16"

@@ -1,0 +1,13 @@
+name = "BCG x AllTheMons"
+filename = "BCG x AllTheMons 1.2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mBOrTfBq/versions/xaGg8S9C/BCG%20x%20AllTheMons%201.2.0.zip"
+hash-format = "sha512"
+hash = "8109e7e57e33abddceb068590c2a48bdd42574d0798736dfef20ed69897f8a3ae9226112bf32aec45409b302379470cf5df1b48cb12092bbd12d6e67badc82a4"
+
+[update]
+[update.modrinth]
+mod-id = "mBOrTfBq"
+version = "xaGg8S9C"
