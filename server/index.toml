@@ -624,10 +624,6 @@ hash = "f1dedb79c940e0341e302b8156026421a782bca1f3343301f598307d09cf58ee"
 metafile = true
 
 [[files]]
-file = "docker-compose.yaml"
-hash = "8554ccf05244a7b43b96a5bf50cb62c3173f581b8c16aabcb6a2a8c0c5e3ecd9"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "8a7f6564395e49485b6f706051f047bf96ec6b31f1cb7c1c3e27e89d9cf3155a"
 metafile = true
@@ -810,11 +806,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
 hash = "948528d0105654285899ce6ff35928105759d8bb84729f4d3a85a402d670d3e6"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-star-academy-integration.pw.toml"
-hash = "05678beeec15114616ea7c34ef51dee9c10c4c746326d14a340e4f380e352a66"
 metafile = true
 
 [[files]]
