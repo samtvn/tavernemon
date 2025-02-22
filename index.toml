@@ -1264,11 +1264,6 @@ hash = "e4c6277ec685b6e6f352037d579c973f4321e5cc057a3146e0c920a40d3a0c0e"
 metafile = true
 
 [[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e6ef4cf01f5b048a810d28dbfb45f23b085299ac91afea719d2304ced7a0fd94"
 metafile = true
