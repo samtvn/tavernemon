@@ -754,11 +754,6 @@ hash = "948528d0105654285899ce6ff35928105759d8bb84729f4d3a85a402d670d3e6"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-star-academy-integration.pw.toml"
-hash = "05678beeec15114616ea7c34ef51dee9c10c4c746326d14a340e4f380e352a66"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-unchained.pw.toml"
 hash = "ad8dff4770324bf75875d43cafe8ae6303e9e6b1c0abaa029f921780c9de5f39"
 metafile = true
