@@ -1,0 +1,12 @@
+{
+  "blacklisted_entities": [
+    "minecraft:zombie_villager",
+    "minecraft:zombie_horse",
+    "minecraft:giant",
+    "minecraft:zombie",
+    "minecraft:spider",
+    "minecraft:cave_spider",
+    "minecraft:villager_golem",
+    "minecraft:creeper"
+  ]
+}

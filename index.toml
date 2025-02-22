@@ -33,6 +33,10 @@ file = "config/craftpresence.json"
 hash = "6f91bcbfd8f029d754e276136b2823d41b2a668758e66238398a40050a36ae1f"
 
 [[files]]
+file = "config/dismountentity.json5"
+hash = "0e7e11b395504f0cf8699618b12a4dc59e6bcfddbf1e1a5aa5c54e4bc0b240b1"
+
+[[files]]
 file = "config/fancymenu/assets/cm_audio/north_province.ogg"
 hash = "c1be22d0e1012e55ad0573afb190fb9d19a08b570b1b55ec59c792e45961a41a"
 
@@ -231,6 +235,42 @@ hash = "fde6f3bc0ce45ee51d6cb83fdb136423b62aa94d7ff379e1a5322287b341f5dc"
 [[files]]
 file = "config/invmove/vanilla.json"
 hash = "109524b6c2b68a665bddffedb0bef0e135473f6aa954be8a9c153f17fa7c7f08"
+
+[[files]]
+file = "config/travelersbackpack.json5"
+hash = "81578f311b2e17a57771c702c8d69961d46fe7ad49a4d94a6bb2191ac8664a1a"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "1688ae58791b9296189901ff43bfaa63136dbe4c215a3f0b6b8b88b14bc81061"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "3fdfaa4595d4e55c1e6b3a6ba74aec07ca2701ec767c34d5209a7bc08d0dbfbd"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "59ac65cba79de40f653f3b381d8f72ecfbe081cf8109dde408cecb440b31528b"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "8f8976f0492655693d17262e994831636110a42b98dad1d3cacd6be1c91bd62a"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f5bb870d3638e4331f1b1baee637359cd2ac425d4f600b8723c2bf3b7d408196"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
+file = "config/yigd.json"
+hash = "819b65a9da94093fdf57084723398ad342abb272666b559098ce1b3c44ced973"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -541,6 +581,10 @@ file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
 hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 
 [[files]]
+file = "config/ysns.json"
+hash = "916432a77a3fd8a732bd57db943dce3e71823053c8c775a286332d6a59503b25"
+
+[[files]]
 file = "datapacks/bcg-x-atm.pw.toml"
 hash = "e0fe41ba54be0f40bc00aa8d393152c1d68955c87e8760cc1f43f12fa916f4dc"
 metafile = true
@@ -558,6 +602,11 @@ metafile = true
 [[files]]
 file = "datapacks/cobblemonloot.pw.toml"
 hash = "0e94b0190a09a410d079b53cc99065fb8650813e91e8be2d1d4db990f9978c68"
+metafile = true
+
+[[files]]
+file = "datapacks/cobblespawn.pw.toml"
+hash = "f9f93510b65e38807ab0239753e0efcf685fbe3bb7a3b198cf42d032aa688455"
 metafile = true
 
 [[files]]
@@ -722,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "b937c3a122ce778bfabad2b89367d619e26e2feb76af1802083e86a26439b4c7"
+hash = "ebfdc72c6ec668e942187cf3d39ae4f644d400b7f5d74c69c320192aef1ade27"
 metafile = true
 
 [[files]]
@@ -921,6 +970,11 @@ hash = "a0da0dc6bd1ae149b5dfbb087f9a0addf84c672ac78c5f5af14f51f4e4f786c8"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "f97cc8ad639b378d68bcf0169740735a9ca14fff6f36baac3745427097078d46"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "574391d5cca405ac256a7dab4b557f7d9b839a94973d6bb8694ea874febe82c4"
 metafile = true
@@ -986,6 +1040,11 @@ hash = "a082960a74439afccea4c988591ea2775e1cf2d893973abc0557afdca699b79e"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "d9c37a782ab3fccc43ed846018033e4cb3f487ec37cb5d67c012da4f61ca771f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "0322546274121bbb406e7371ab2886bcd6997f87ece5d01a438d900604d3adfc"
 metafile = true
@@ -1008,6 +1067,11 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "054b2c5512f4673a6c55bf097b6c56933a89b960357e1356e685718fe0de2318"
+metafile = true
+
+[[files]]
+file = "mods/mellomons.pw.toml"
+hash = "38ea5be79fddfe379f475a7793c2ec222262e098b3d23b60584445660445bb64"
 metafile = true
 
 [[files]]
@@ -1217,7 +1281,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "0ad46a8995e73464ec898515d05310a7ce1f9059528ceedac8720942d625a27c"
+hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
 metafile = true
 
 [[files]]
@@ -1253,6 +1317,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "f1670113ba6c7687790c33c13521505caf0fb59a50a253e9533e9f6ebe3cf8c9"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "a45d688bdb4d52382c527706173ef263510b07bcbbb4eb5bde9eb68c265cb06b"
 metafile = true
 
 [[files]]
@@ -1343,6 +1412,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "b82989780d7650867c120af13e083c93476ea47da96c49707693439eb5872410"
+metafile = true
+
+[[files]]
+file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
+hash = "49322ed4e643ca538592310c50698c2023e54cb617b10d48f27edf36545641a6"
 metafile = true
 
 [[files]]

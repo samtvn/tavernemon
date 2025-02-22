@@ -1,0 +1,13 @@
+name = "Cobblespawn"
+filename = "cflspdp.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VhIOv5ZT/versions/c85RkkAh/cflspdp.zip"
+hash-format = "sha512"
+hash = "d8420131199c9074b59423f90dd25a1db3d1f36e3abaca92283f468d48132244c2a82a49876107895145b5737001df4b8083fa40a7042efa858ec6b67801f8f9"
+
+[update]
+[update.modrinth]
+mod-id = "VhIOv5ZT"
+version = "c85RkkAh"
