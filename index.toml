@@ -599,6 +599,11 @@ hash = "481d1735e9fb0d300cc380c7346506b3d6560154c5e2651ab46c925ed8acd75a"
 metafile = true
 
 [[files]]
+file = "datapacks/mellomons.pw.toml"
+hash = "38ea5be79fddfe379f475a7793c2ec222262e098b3d23b60584445660445bb64"
+metafile = true
+
+[[files]]
 file = "datapacks/mysticmons.pw.toml"
 hash = "c00b88b14bee44e23282b5bd0b48119d1558b7b7b25cf99800e5f067aa755fb1"
 metafile = true
@@ -1051,11 +1056,6 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "054b2c5512f4673a6c55bf097b6c56933a89b960357e1356e685718fe0de2318"
-metafile = true
-
-[[files]]
-file = "mods/mellomons.pw.toml"
-hash = "38ea5be79fddfe379f475a7793c2ec222262e098b3d23b60584445660445bb64"
 metafile = true
 
 [[files]]
