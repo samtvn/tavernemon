@@ -249,24 +249,8 @@ file = "config/xaerominimap-common.txt"
 hash = "3fdfaa4595d4e55c1e6b3a6ba74aec07ca2701ec767c34d5209a7bc08d0dbfbd"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "59ac65cba79de40f653f3b381d8f72ecfbe081cf8109dde408cecb440b31528b"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "8f8976f0492655693d17262e994831636110a42b98dad1d3cacd6be1c91bd62a"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/xaeroworldmap-common.txt"
 hash = "f5bb870d3638e4331f1b1baee637359cd2ac425d4f600b8723c2bf3b7d408196"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "config/yigd.json"
