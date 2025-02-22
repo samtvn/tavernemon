@@ -1,0 +1,17 @@
+name = "TaverneMon"
+author = "Viresme"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1cb2d7121860e5123fa0137208347197278ba848d562edc6f7f31775ca0c4b6e"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]
+datapack-folder = "datapacks"

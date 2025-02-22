@@ -1,0 +1,13 @@
+name = "Cobblemon Poképedia: Cobblepedia"
+filename = "Cobblepedia-Fabric-0.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2obPz7jf/versions/YLyhzygh/Cobblepedia-Fabric-0.7.0.jar"
+hash-format = "sha512"
+hash = "df3d344d95000bab339f60846a4be0a4c18479425050ea20112a826617dc22bd170dfba41d7051c18b409855267bcf44a15a826c7fd64772dba685bc9fb45432"
+
+[update]
+[update.modrinth]
+mod-id = "2obPz7jf"
+version = "YLyhzygh"

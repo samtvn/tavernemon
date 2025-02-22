@@ -1,0 +1,13 @@
+name = "Cobblemon: Mega Showdown"
+filename = "Cobblemon_MegaShowdown-3.8.0-release-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SszvX85I/versions/17mKbbvW/Cobblemon_MegaShowdown-3.8.0-release-fabric.jar"
+hash-format = "sha512"
+hash = "a30ce0257f9716783cce36b43529ae1a43aecf4e056b351b12582ff344a37b2efc3f99f3d26f24e96724c5c9271d164e8b12a6b3ee5a877a9cb7cedf8e95d72d"
+
+[update]
+[update.modrinth]
+mod-id = "SszvX85I"
+version = "17mKbbvW"
