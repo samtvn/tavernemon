@@ -1349,11 +1349,6 @@ hash = "88e03e129e1831e67c3961c3b17c1bc682e8d8c29570fe9e021f5952dff69fd9"
 metafile = true
 
 [[files]]
-file = "resourcepacks/XaeroMapCobblemonIcons3DmodelsNameFr.pw.toml"
-hash = "4cfcb09fb69179bcc49898521e7476e5c611c56b65d864d46f172948964b0498"
-metafile = true
-
-[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "b82989780d7650867c120af13e083c93476ea47da96c49707693439eb5872410"
 metafile = true
