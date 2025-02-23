@@ -789,6 +789,11 @@ hash = "c36c74166bb96ec2f1256f2701d1080b7d5a08255be68bdd0981d16424988349"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-hunt.pw.toml"
+hash = "8a9babf7e7fa41d5464021d180e95539a5fdc2806a72d73f547465c24bc9f96b"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "281843a2d89818a832efc2aeb3ce372295196f56b07bf3ba9915ad5661000a22"
 metafile = true
@@ -904,6 +909,11 @@ hash = "ec4d3d5857703e09f413962df78e50e0f47c6f8f58cc61c096c02fc68d8a213c"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "b349ca00330f84175cbe1b50a4fab056aea5af4c3e49a968b0cda231dd5b013a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "6d648b420a7db5901f44fda2b8b5663f13498ab508deea80b4d1cc67a4e02180"
 metafile = true
@@ -976,6 +986,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a0da0dc6bd1ae149b5dfbb087f9a0addf84c672ac78c5f5af14f51f4e4f786c8"
+metafile = true
+
+[[files]]
+file = "mods/impactor.pw.toml"
+hash = "00ac8b7e1c31b73c80c3ed25d41865c3cd9981853a02b28e26fc48f3b94cf71a"
 metafile = true
 
 [[files]]
