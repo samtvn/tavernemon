@@ -1,0 +1,13 @@
+name = "Ocean Breaths"
+filename = "OceanBreaths_FREE.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RRBSgsJ8/versions/tU7xmu5P/OceanBreaths_FREE.zip"
+hash-format = "sha512"
+hash = "d9d5c9624bb4afdd430b891a2706d3153b0969000025a6f34a48bab17903a001b01a6bd3c4a0dc9a17584dfca755233aa3c8944f6214c09fe6867d3b7fa8703d"
+
+[update]
+[update.modrinth]
+mod-id = "RRBSgsJ8"
+version = "tU7xmu5P"

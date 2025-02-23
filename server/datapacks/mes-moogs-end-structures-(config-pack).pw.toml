@@ -1,0 +1,13 @@
+name = "MES - Moog's End Structures (config pack)"
+filename = "MES config pack - 1.21.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q9G7lPPp/versions/llFjqb4E/MES%20config%20pack%20-%201.21.zip"
+hash-format = "sha512"
+hash = "ad8cc032cba8af455b49ac81633a255170f64e19d3553936eb15771a592d65846134996c68a04e347ce0ffb13520c998d6cde9639303495988ffbf4540c759c4"
+
+[update]
+[update.modrinth]
+mod-id = "q9G7lPPp"
+version = "llFjqb4E"

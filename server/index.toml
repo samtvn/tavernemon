@@ -604,6 +604,16 @@ hash = "38ea5be79fddfe379f475a7793c2ec222262e098b3d23b60584445660445bb64"
 metafile = true
 
 [[files]]
+file = "datapacks/mes-moogs-end-structures-(config-pack).pw.toml"
+hash = "dfc34dcb68a659ec83f1901a4e53a5673627da49bf8e70953c498531326c7175"
+metafile = true
+
+[[files]]
+file = "datapacks/mvs-moogs-voyager-structure-config-pack.pw.toml"
+hash = "41abb554b07a0ebef72ca2cbba5cec26d6c333aa31ff4a0a3a1c8c0a32e2666e"
+metafile = true
+
+[[files]]
 file = "datapacks/mysticmons.pw.toml"
 hash = "c00b88b14bee44e23282b5bd0b48119d1558b7b7b25cf99800e5f067aa755fb1"
 metafile = true
@@ -611,6 +621,11 @@ metafile = true
 [[files]]
 file = "datapacks/myths-and-legends-datapack.pw.toml"
 hash = "c39ef170e856ac7a89c99f1093933ebc3897d9db00da61049a035f52cc85e582"
+metafile = true
+
+[[files]]
+file = "datapacks/ocean-breaths.pw.toml"
+hash = "ec32cc16a280c242e3b1cc881db864061e890c65e12c865ac4e7644b3bd0fce4"
 metafile = true
 
 [[files]]
@@ -1064,6 +1079,21 @@ hash = "037611397fb036c267aae8252e6b188e8a1e6c56525831fa319117655b13b3f8"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "886b64ab905b7ea9278d517f24135c2af8e2e4bb77d02c273bc75f4da43957ef"
+metafile = true
+
+[[files]]
+file = "mods/mmv-moogs-missing-villages.pw.toml"
+hash = "e55c024d4c0c506406002a1a807064095441903dc2772354a92b8329e2e612ce"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "b2c1cbadab89909dc1a14a689fe52a3be967d278034623f97702eab22678b127"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "38d81316590545e95d32f49c65d9424cc76bdbef261ee8c629add735b05c3143"
 metafile = true
@@ -1079,6 +1109,11 @@ hash = "198aa0291797097c18461b92224405cb96be84bbfb7456f742bc9e47b04a0669"
 metafile = true
 
 [[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "7e9e77eb3cff38720c4a31bb9fb8a30f33ad0eb3d4cd37bd42b31ce94d225f69"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "860fc9a0bad145ab945fc770679338f3e6ea67f8d69998e3784367943aa06c50"
 metafile = true
@@ -1091,6 +1126,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "2c402a862334716d641391b1fd5b6406b1bc85f3987cd00a0b66acc37e76fcea"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "130dba4af7be9d662aeed76c6e26b9e9a19d556da85565f8aaf7e6802b1feea8"
 metafile = true
 
 [[files]]

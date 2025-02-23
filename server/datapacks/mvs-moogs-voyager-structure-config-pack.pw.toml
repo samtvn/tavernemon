@@ -1,0 +1,13 @@
+name = "MVS - Moog's Voyager Structure (config pack)"
+filename = "MVS config pack - 1.21.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kV5gBvz6/versions/kZ176RNj/MVS%20config%20pack%20-%201.21.zip"
+hash-format = "sha512"
+hash = "ba16407a100dd19cc7d405a58b9ed6b52ed5ccd067bd1396494be79c96d15a4b3f35c7e1b45bea4b7bdc09d61d268db64b2e9d89b7543645b413496d9f4e867f"
+
+[update]
+[update.modrinth]
+mod-id = "kV5gBvz6"
+version = "kZ176RNj"
