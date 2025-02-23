@@ -4,8 +4,7 @@ services:
     container_name: tavernemon
     tty: true
     stdin_open: true
-    networks:
-      - minecraft
+    network_mode: host
     ports:
       - 25565:25565/tcp
     environment:
@@ -32,9 +31,8 @@ services:
       PAUSE_WHEN_EMPTY_SECONDS: "30"
       PLAYER_IDLE_TIMEOUT: "10"
       LOG_IPS: "false"
-      ALLOW_FLIGHT: "true"
     volumes:
-      - ~/minecraft:/data
+      - /mnt/d/Minecraft/tavernemon:/data
     restart: unless-stopped
     security_opt:
       - no-new-privileges:true
