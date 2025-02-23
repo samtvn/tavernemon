@@ -1104,6 +1104,11 @@ hash = "77f3f22dd6b04c981dfe20fcdc4ed9ad2c5abb3b284143a1c64953aac3d21eb5"
 metafile = true
 
 [[files]]
+file = "mods/pokeblocks.pw.toml"
+hash = "cff65835b7fcdd39d9e8e807579d1d5a44bf0ea55ec8ccd1996d7eebb74bd8b3"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "1407660ea20f405cde236cd2fbc84b195d96c183b80bc1435a23956c67f86610"
 metafile = true
