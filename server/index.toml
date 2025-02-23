@@ -2607,16 +2607,6 @@ hash = "481d1735e9fb0d300cc380c7346506b3d6560154c5e2651ab46c925ed8acd75a"
 metafile = true
 
 [[files]]
-file = "datapacks/hopo-better-underwater-ruins.pw.toml"
-hash = "866c89ee309cca9c0f444c8a0ac6be5cd87ccf39c77f6245376a1f694c191c83"
-metafile = true
-
-[[files]]
-file = "datapacks/improved-pillager-outpost.pw.toml"
-hash = "934871dab3f31db1540859fc52d978b0e2f015671009fc1f4aeff64ff8d7c6ff"
-metafile = true
-
-[[files]]
 file = "datapacks/mellomons.pw.toml"
 hash = "38ea5be79fddfe379f475a7793c2ec222262e098b3d23b60584445660445bb64"
 metafile = true
@@ -2659,11 +2649,6 @@ metafile = true
 [[files]]
 file = "datapacks/shinier-shinies.pw.toml"
 hash = "f1dedb79c940e0341e302b8156026421a782bca1f3343301f598307d09cf58ee"
-metafile = true
-
-[[files]]
-file = "datapacks/tidal-towns.pw.toml"
-hash = "0cbfee517ef794590c79f407c060a42f9719e8533f730411761d3d429463af03"
 metafile = true
 
 [[files]]
@@ -3017,6 +3002,11 @@ hash = "d9b52abae06c77da2947ae9629264c07b4609aaf0f2940231afc006d23e621f3"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "866c89ee309cca9c0f444c8a0ac6be5cd87ccf39c77f6245376a1f694c191c83"
+metafile = true
+
+[[files]]
 file = "mods/htm.pw.toml"
 hash = "eff2bb83467ba7d15bbc9562ad22ad3be78fc68137abb4430986bbcb460b6792"
 metafile = true
@@ -3034,6 +3024,11 @@ metafile = true
 [[files]]
 file = "mods/impactor.pw.toml"
 hash = "00ac8b7e1c31b73c80c3ed25d41865c3cd9981853a02b28e26fc48f3b94cf71a"
+metafile = true
+
+[[files]]
+file = "mods/improved-pillager-outpost.pw.toml"
+hash = "934871dab3f31db1540859fc52d978b0e2f015671009fc1f4aeff64ff8d7c6ff"
 metafile = true
 
 [[files]]
@@ -3384,6 +3379,11 @@ metafile = true
 [[files]]
 file = "mods/terrastorage.pw.toml"
 hash = "b386d9b846416e06c59cd6793d53abf2bbfc8318251e6d9ff417e1493939701a"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "0cbfee517ef794590c79f407c060a42f9719e8533f730411761d3d429463af03"
 metafile = true
 
 [[files]]
