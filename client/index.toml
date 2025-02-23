@@ -794,6 +794,11 @@ hash = "351926bfc2654935b27c5e40cdcbaf83431660e08cee3aca4e8ae2bd25002575"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "a520ac2a2b0a90c1c5f41f4aaffe96320ce4e4fb56a9f821e8a010a2088b2762"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "c9b9ccf37e8aa04a7ec79870f0aab9b80c22e2a7e023aae34d47205d35a4b385"
 metafile = true
@@ -1059,6 +1064,16 @@ hash = "32288feed09049c74da79d094aebf6d09509618e26747132a527e9cc0dfc4ca7"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "01d031ec07bcf80a12672366d869800c434f083d24811df422619e00b8c1b4ac"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "9e988b2a476b467a6eba0674ada7d7a78dc47e9678ac71655b05237dc4f38a56"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "ab2950ccf9b6dac5c4453b0830f871e2acecdbd190c5ef7e3871dc347384ae7d"
 metafile = true
@@ -1184,8 +1199,8 @@ hash = "bed0eb5d5cf0f8a37c7dda5850674d3a5c760f4cca0d17a83f12220366461669"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "d14d2e8497d8ea4604222438da28ad3e802b271b6bc2ab293f65da05cc4a9eec"
+file = "mods/terrablender.pw.toml"
+hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
 
 [[files]]
