@@ -13,7 +13,7 @@ services:
       PACKWIZ_URL: "https://samtvn.github.io/tavernemon/server/pack.toml"
       EULA: "TRUE"
       VERSION: "1.21.1"
-      MEMORY: "7G"
+      MEMORY: "5G"
       MAX_PLAYERS: "4"
       MOTD: "Bienvenue sur TaverneMon!"
       USE_AIKAR_FLAGS: "true"
