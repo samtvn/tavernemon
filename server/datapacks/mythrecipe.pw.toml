@@ -1,0 +1,13 @@
+name = "[Cobblemon] MythRecipe"
+filename = "MythRecipe for Cobblemon v1.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zawr4sdl/versions/MOpcvHkx/MythRecipe%20for%20Cobblemon%20v1.3.zip"
+hash-format = "sha512"
+hash = "9b1e24065b888f4a059412cb27390a964827693e65b4a9bb364c6fe3f9f0a2b8bdcbaa1d7137a3b2dfc84ec77a8a1c5fe833eb5706488e26be512950b5fc9ef6"
+
+[update]
+[update.modrinth]
+mod-id = "zawr4sdl"
+version = "MOpcvHkx"

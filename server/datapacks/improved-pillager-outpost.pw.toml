@@ -1,0 +1,13 @@
+name = "Improved Pillager Outpost"
+filename = "ImprovedPillagerOutpost-v4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WQxwMPH5/versions/X7YrGibt/ImprovedPillagerOutpost-v4.jar"
+hash-format = "sha512"
+hash = "dc4c0b9e7ebd94337f2385cc4d69bd47fa39ab446302a890aa43cab86331c02b7f81665bb4b9153416761a803ae32a7a77c13330d832089b079992b04834e961"
+
+[update]
+[update.modrinth]
+mod-id = "WQxwMPH5"
+version = "X7YrGibt"

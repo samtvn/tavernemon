@@ -1,0 +1,13 @@
+name = "Cobblemon Shiny Boosters"
+filename = "shiny-boosters-1.6.0+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/C5MDemcq/versions/nAg6z9EI/shiny-boosters-1.6.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d15cef2ddae97e01c12285f19045d47adcd2df8b636696d1f78bee53182d8aa51738ced589ae589c205fe338edc5a880d064419a9436e66a2f3be52c0e2b4f66"
+
+[update]
+[update.modrinth]
+mod-id = "C5MDemcq"
+version = "nAg6z9EI"

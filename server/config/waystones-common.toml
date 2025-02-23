@@ -20,10 +20,10 @@ preferJourneyMapIntegrationMod = true
 [general]
 
 # Add "GLOBAL" to allow every player to create global waystones.
-allowedVisibilities = [ "GLOBAL" ]
+allowedVisibilities = [  ]
 
 # Set to "GLOBAL" and change allowedVisibilities to have newly placed or found waystones be global by default.
-defaultVisibility = "GLOBAL"
+defaultVisibility = "ACTIVATION"
 
 # List of waystone origins that should prevent others from editing. PLAYER is special in that it allows only edits by the owner of the waystone.
 restrictedWaystones = [ "PLAYER" ]
@@ -60,7 +60,7 @@ inventoryButtonY = 60
 enableCooldowns = true
 
 # Set to false to simply disable all xp costs. See warpRequirements for more fine-grained control.
-enableCosts = false
+enableCosts = true
 
 # List of entities that cannot be teleported, either as pet, leashed, or on warp plates.
 entityDenyList = [ "minecraft:wither" ]
@@ -88,7 +88,7 @@ warpRequirements = [
 chunksBetweenWildWaystones = 25
 
 # Set to 'PRESET_FIRST' to first use names from the nameGenerationPresets. Set to 'PRESET_ONLY' to use only those custom names. Set to 'MIXED' to have some waystones use custom names, and others random names.
-nameGenerationMode = "PRESET_FIRST"
+nameGenerationMode = "MIXED"
 
 # These names will be used for the PRESET name generation mode. See the nameGenerationMode option for more info.
 nameGenerationPresets = [  ]
@@ -97,13 +97,13 @@ nameGenerationPresets = [  ]
 nameGenerationTemplate = "{MrPork}"
 
 # Set to REGULAR to have waystones spawn in some villages. Set to FREQUENT to have waystones spawn in most villages. Set to DISABLED to disable waystone generation in villages. Waystones will only spawn in vanilla or supported villages.
-spawnInVillages = "FREQUENT"
+spawnInVillages = "REGULAR"
 
 # Set to 'DEFAULT' to only generate the normally textured waystones. Set to 'MOSSY' or 'SANDY' to generate all as that variant. Set to 'BIOME' to make the style depend on the biome it is generated in.
 wildWaystoneStyle = "BIOME"
 
 # List of dimensions that wild waystones are allowed to spawn in. If left empty, all dimensions except those in wildWaystonesDimensionDenyList are used.
-wildWaystonesDimensionAllowList = [ "minecraft:the_end", "minecraft:the_nether", "minecraft:overworld" ]
+wildWaystonesDimensionAllowList = [ "minecraft:the_nether", "minecraft:overworld", "minecraft:the_end" ]
 
 # List of dimensions that wild waystones are not allowed to spawn in. Only used if wildWaystonesDimensionAllowList is empty.
 wildWaystonesDimensionDenyList = [  ]

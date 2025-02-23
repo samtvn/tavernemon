@@ -569,6 +569,11 @@ file = "config/ysns.json"
 hash = "916432a77a3fd8a732bd57db943dce3e71823053c8c775a286332d6a59503b25"
 
 [[files]]
+file = "datapacks/ati-structures-vanilla-edition.pw.toml"
+hash = "8d4940079d9d4781b1cd135159127831565a482d41d74cfebe0b3d9af22e0cda"
+metafile = true
+
+[[files]]
 file = "datapacks/bcg-x-atm.pw.toml"
 hash = "e0fe41ba54be0f40bc00aa8d393152c1d68955c87e8760cc1f43f12fa916f4dc"
 metafile = true
@@ -584,11 +589,6 @@ hash = "8d04a4d19295eb6af6874dd2cdac78ba6a896bce9eb7755a46c518cfaef89ab1"
 metafile = true
 
 [[files]]
-file = "datapacks/cobblemonloot.pw.toml"
-hash = "0e94b0190a09a410d079b53cc99065fb8650813e91e8be2d1d4db990f9978c68"
-metafile = true
-
-[[files]]
 file = "datapacks/cobblespawn.pw.toml"
 hash = "f9f93510b65e38807ab0239753e0efcf685fbe3bb7a3b198cf42d032aa688455"
 metafile = true
@@ -596,6 +596,16 @@ metafile = true
 [[files]]
 file = "datapacks/cobbletowns.pw.toml"
 hash = "481d1735e9fb0d300cc380c7346506b3d6560154c5e2651ab46c925ed8acd75a"
+metafile = true
+
+[[files]]
+file = "datapacks/hopo-better-underwater-ruins.pw.toml"
+hash = "866c89ee309cca9c0f444c8a0ac6be5cd87ccf39c77f6245376a1f694c191c83"
+metafile = true
+
+[[files]]
+file = "datapacks/improved-pillager-outpost.pw.toml"
+hash = "934871dab3f31db1540859fc52d978b0e2f015671009fc1f4aeff64ff8d7c6ff"
 metafile = true
 
 [[files]]
@@ -619,6 +629,11 @@ hash = "c00b88b14bee44e23282b5bd0b48119d1558b7b7b25cf99800e5f067aa755fb1"
 metafile = true
 
 [[files]]
+file = "datapacks/mythrecipe.pw.toml"
+hash = "cdff769b4f81043ecb83fc5663d7834f45849cf8fb40114dc0976d59497d9361"
+metafile = true
+
+[[files]]
 file = "datapacks/myths-and-legends-datapack.pw.toml"
 hash = "c39ef170e856ac7a89c99f1093933ebc3897d9db00da61049a035f52cc85e582"
 metafile = true
@@ -636,6 +651,16 @@ metafile = true
 [[files]]
 file = "datapacks/shinier-shinies.pw.toml"
 hash = "f1dedb79c940e0341e302b8156026421a782bca1f3343301f598307d09cf58ee"
+metafile = true
+
+[[files]]
+file = "datapacks/tidal-towns.pw.toml"
+hash = "0cbfee517ef794590c79f407c060a42f9719e8533f730411761d3d429463af03"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "2213ad135f1c29b0c3fff3d0119c93ab70cf93b612cdcd1e9bb791410990e80e"
 metafile = true
 
 [[files]]
@@ -690,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1b332fa2f9c77327ccf5000bcee1b5f98def87d142284252a33ee4f740128054"
+hash = "89794113ff010e9a39adfc25e377007a5bc02baf05ece63090e183bf400d25a5"
 metafile = true
 
 [[files]]
@@ -824,6 +849,11 @@ hash = "c362c4ec9e486f745f06f8dacf793a01cad18aa45fe8076be6ae12ca3cfe8c78"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-shiny-boosters.pw.toml"
+hash = "de72ffd4d445b8dfd22799c893436ca8137a141de1062c3126065976a1b4e495"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
 hash = "948528d0105654285899ce6ff35928105759d8bb84729f4d3a85a402d670d3e6"
 metafile = true
@@ -866,6 +896,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "351926bfc2654935b27c5e40cdcbaf83431660e08cee3aca4e8ae2bd25002575"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "0f274d1b621c33d73c95b6c264b1943dd3f03b67e3fc2e5a968e411e81229550"
 metafile = true
 
 [[files]]
@@ -925,12 +960,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ff86d6ac77d7c16046f252f76de17a82639f256503ec58daf10fd3b0f332f653"
+hash = "fe95430d433104d44c741c22d8f4d0db4678756311acacccddec49e3a39a4091"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ddd587383101590f8408208c3bdc53ec6b10077570a566211f47ee62673b74b8"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -994,11 +1029,6 @@ hash = "00ac8b7e1c31b73c80c3ed25d41865c3cd9981853a02b28e26fc48f3b94cf71a"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "f97cc8ad639b378d68bcf0169740735a9ca14fff6f36baac3745427097078d46"
-metafile = true
-
-[[files]]
 file = "mods/invmove.pw.toml"
 hash = "574391d5cca405ac256a7dab4b557f7d9b839a94973d6bb8694ea874febe82c4"
 metafile = true
@@ -1051,6 +1081,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "8ecd67f8269c6317a0dc59edebcb9d6b3730f3adf26532e3a6c664804983c4ec"
+metafile = true
+
+[[files]]
+file = "mods/labels.pw.toml"
+hash = "b03384a10d0349070349c54053242d17bf27c445bb018c2556b60cbb6286870e"
 metafile = true
 
 [[files]]
@@ -1209,6 +1244,16 @@ hash = "77f3f22dd6b04c981dfe20fcdc4ed9ad2c5abb3b284143a1c64953aac3d21eb5"
 metafile = true
 
 [[files]]
+file = "mods/player-ladder.pw.toml"
+hash = "8cd9bbc4822d3de423cbd00cdd77949467b83a9084aa10b048fa531b5ea0b602"
+metafile = true
+
+[[files]]
+file = "mods/player-roles.pw.toml"
+hash = "9c1f3613193a880e298896f733fc5cd56950b7f74c9b414a28cfc8d57a5f4337"
+metafile = true
+
+[[files]]
 file = "mods/pokeblocks.pw.toml"
 hash = "cff65835b7fcdd39d9e8e807579d1d5a44bf0ea55ec8ccd1996d7eebb74bd8b3"
 metafile = true
@@ -1221,6 +1266,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c0e0a4efe986fbb76e1c7c50f2c8402d0ec8f4c5c4a32e8e97af32b7813d17d4"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "9cd1f164764a1ad176682b8d57815c7c0b8dc5f837c542d42bc1192aec33ff83"
 metafile = true
 
 [[files]]
@@ -1294,8 +1344,18 @@ hash = "659a0a89c845a2f3eda2c39df90b059c48913afe5e97bb7528d1a0113fe4de80"
 metafile = true
 
 [[files]]
+file = "mods/spawner-controls.pw.toml"
+hash = "b991dffd0433e6e1d6503757cdc7357c5010b6d717b4c644765cff0ec580f518"
+metafile = true
+
+[[files]]
 file = "mods/stendhal.pw.toml"
 hash = "e72bc0f234f4f274d7603c30e3f16afd59927a56a52c43d218a1b0b5a2a0d584"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "53ff34a5821f588c428221b6e7104d3e4fcf70ab7683c241e4149a4816251fed"
 metafile = true
 
 [[files]]
@@ -1316,6 +1376,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
+metafile = true
+
+[[files]]
+file = "mods/terrastorage.pw.toml"
+hash = "b386d9b846416e06c59cd6793d53abf2bbfc8318251e6d9ff417e1493939701a"
 metafile = true
 
 [[files]]
@@ -1386,6 +1451,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "f1670113ba6c7687790c33c13521505caf0fb59a50a253e9533e9f6ebe3cf8c9"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
 metafile = true
 
 [[files]]

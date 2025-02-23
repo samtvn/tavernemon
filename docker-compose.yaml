@@ -22,6 +22,7 @@ services:
       SPAWN_MONSTERS: "false"
       VIEW_DISTANCE: "10"
       SPAWN_PROTECTION: "0"
+      DIFFICULTY: "peaceful"
       MAX_TICK_TIME: "-1"
       REGION_FILE_COMPRESSION: "lz4"
       OPS: |-

@@ -1,0 +1,7 @@
+name = "player-ladder"
+filename = "playerladder-fabric-1.21-0.7.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/YCcTxyDM/versions/odOUurFE/playerladder-fabric-1.21-0.7.1.jar"
+hash-format = "sha256"
+hash = "adde49438f0c6a7f935a5f58649f9bc204e05afb79cf6f4be2ce630883837f9b"
