@@ -1559,11 +1559,6 @@ hash = "a0da0dc6bd1ae149b5dfbb087f9a0addf84c672ac78c5f5af14f51f4e4f786c8"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "f97cc8ad639b378d68bcf0169740735a9ca14fff6f36baac3745427097078d46"
-metafile = true
-
-[[files]]
 file = "mods/invmove.pw.toml"
 hash = "574391d5cca405ac256a7dab4b557f7d9b839a94973d6bb8694ea874febe82c4"
 metafile = true
