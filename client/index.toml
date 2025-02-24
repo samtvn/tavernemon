@@ -1275,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1b332fa2f9c77327ccf5000bcee1b5f98def87d142284252a33ee4f740128054"
+hash = "89794113ff010e9a39adfc25e377007a5bc02baf05ece63090e183bf400d25a5"
 metafile = true
 
 [[files]]
@@ -1375,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "4b2177f6819aa50a659ab8dff8e392c47673ceed838e2d1b9857b350c4dc24a3"
+hash = "69389612bdb82a0080a4e15a59860fc9cb1f19afa7f9528ccd87be9f3eda9dbe"
 metafile = true
 
 [[files]]
@@ -1390,7 +1390,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "c362c4ec9e486f745f06f8dacf793a01cad18aa45fe8076be6ae12ca3cfe8c78"
+hash = "640df40219022d237d0f0c29c4cb8241ac26e26e823c6d9479d07fc72d9a8710"
 metafile = true
 
 [[files]]
@@ -1430,7 +1430,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "43a487b10b3a1e86b154755622b840144cf6b6d6f55b2267ce07c8f70da45396"
+hash = "874f578662fd07d02038e7d31e475ed9e1bbda2be31d5067cba21440289e68d8"
 metafile = true
 
 [[files]]
@@ -1515,7 +1515,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "358b4808e4dbd9091c4204016d5ca953cd3f258e9e72ac0cda1077742b2e6bf6"
+hash = "c8121fadcd8c23571c9d0b18b90b740410f9f4883f5844e11099861cbd092019"
 metafile = true
 
 [[files]]
@@ -1680,7 +1680,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "860fc9a0bad145ab945fc770679338f3e6ea67f8d69998e3784367943aa06c50"
+hash = "0f8149ae27213c776eb26334da70766be82c6874058b698aaefbb4751526df7c"
 metafile = true
 
 [[files]]
@@ -1929,13 +1929,18 @@ hash = "9e859c11a5e9ac19d331d251350ecf8aa314302a780394a50dd7a092c31b5d5b"
 metafile = true
 
 [[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "1ae45c6e9b558deb10838a1386bf8d653ea3ac9b1b1396e7685ad3bd904c67b9"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "f215ae2ec2bd24a6152e413e6447b2e00c2460c0669b23def507c2cadc997d28"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "e510b91469d7e16a0e0797be01da58af5b55e357e63f54cfbfcebd5922e6ddbb"
+hash = "50784f7f47a26431af90e639bccd79fad0cfdf96c455c8794c0dc5acb332bb21"
 metafile = true
 
 [[files]]
@@ -1955,7 +1960,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6c8b5ab3ab8b976fc72557cbba895cf5606c5e748733c40199154205d597deea"
+hash = "af96d44665278ac929dc118ad563f7ba4cae803410cfc121583d5faa8b997eae"
 metafile = true
 
 [[files]]
