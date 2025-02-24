@@ -13,13 +13,7 @@
   "everyone": {
     "overrides": {
       "commands": {
-        "balance": "deny",
-		    "eco": "deny",
-		    "economy": "deny",
-		    "hunt": "allow",
-		    "ftbchunks": "deny",
-		    "ftblibrary": "deny",
-		    "ftbteams": "deny"
+        "enhancedcelestials lunarForecast": "allow"
       }
     }
   }

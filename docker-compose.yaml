@@ -9,31 +9,34 @@ services:
     ports:
       - 25565:25565/tcp
     environment:
-      TYPE: "FABRIC"
-      PACKWIZ_URL: "https://samtvn.github.io/tavernemon/server/pack.toml"
-      EULA: "TRUE"
-      VERSION: "1.21.1"
-      MEMORY: "5G"
-      MAX_PLAYERS: "4"
-      MOTD: "Bienvenue sur TaverneMon!"
-      USE_AIKAR_FLAGS: "true"
-      TZ: "Europe/Berlin"
-      DIFFICULTY: "2"
-      SPAWN_MONSTERS: "false"
-      VIEW_DISTANCE: "10"
-      SPAWN_PROTECTION: "0"
+      ALLOW_FLIGHT: "true"
       DIFFICULTY: "peaceful"
+      EXISTING_OPS_FILE: "MERGE"
+      EULA: "TRUE"
+      GUI: "FALSE"
+      LOG_IPS: "false"
+      MAX_PLAYERS: "4"
       MAX_TICK_TIME: "-1"
-      REGION_FILE_COMPRESSION: "lz4"
+      MEMORY: "6G"
+      MOTD: "Bienvenue sur TaverneMon!"
+      NETWORK_COMPRESSION_THRESHOLD: "-1"
       OPS: |-
         Tavsam
-      EXISTING_OPS_FILE: "MERGE"
-      NETWORK_COMPRESSION_THRESHOLD: "-1"
-      PREVENT_PROXY_CONNECTIONS: "true"
-      PAUSE_WHEN_EMPTY_SECONDS: "30"
+      PACKWIZ_URL: "https://samtvn.github.io/tavernemon/server/pack.toml"
       PLAYER_IDLE_TIMEOUT: "10"
-      LOG_IPS: "false"
-      ALLOW_FLIGHT: "true"
+      PREVENT_PROXY_CONNECTIONS: "true"
+      REGION_FILE_COMPRESSION: "lz4"
+      SERVER_NAME: "Tavernemon"
+      SNOOPER_ENABLED: "false"
+      SPAWN_MONSTERS: "false"
+      SPAWN_PROTECTION: "0"
+      STOP_SERVER_ANNOUNCE_DELAY: 2500
+      STOP_DURATION: 3000
+      TYPE: "FABRIC"
+      TZ: "Europe/Berlin"
+      USE_AIKAR_FLAGS: "true"
+      VERSION: "1.21.1"
+      VIEW_DISTANCE: "10"
     volumes:
       - ~/minecraft:/data
     restart: unless-stopped

@@ -2330,6 +2330,11 @@ hash = "ad8dff4770324bf75875d43cafe8ae6303e9e6b1c0abaa029f921780c9de5f39"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-wiki-gui.pw.toml"
+hash = "cb32c80c57c0bbff4d8cc8d11d91350c9200d79f0aa2014b048040583ff035e6"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "8abfc9e96b313b70c18ab946209f0779a9b1c8d03e93a61dae7ec46253006458"
 metafile = true
