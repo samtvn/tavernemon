@@ -1529,6 +1529,11 @@ hash = "e762341dfbee9f6a0117effc4ee68d4657e9ec63b8cf9415ba278f4a1a883b92"
 metafile = true
 
 [[files]]
+file = "mods/find.pw.toml"
+hash = "508c15236c0c24b91d8f3dd145e954d56b68499939fa3179370ad3e93cb1912e"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "a3c838aa25bebb0eea966bf7e5de65f4210fb2bb222620807eaf26aff89fee54"
 metafile = true
