@@ -1469,6 +1469,11 @@ hash = "3b2cb4301793e93b0a0fa0200d0cf20795bdaaaeaafe129f1ac034b432122acf"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "13aac727562e5187d82f218db7ff0b5b031dd147e821f9905daffd16435cc20c"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "e8ee489ddaf8bd099d95713fd46cb3ec45dfe41c2bfecbba77c580451fe8683e"
 metafile = true

@@ -2385,6 +2385,11 @@ hash = "d07e4bc3aa72a43e0739c034e125892a8936b845df2167680955de5f154c88e5"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "13aac727562e5187d82f218db7ff0b5b031dd147e821f9905daffd16435cc20c"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "b349ca00330f84175cbe1b50a4fab056aea5af4c3e49a968b0cda231dd5b013a"
 metafile = true
