@@ -1322,6 +1322,11 @@ hash = "c00b88b14bee44e23282b5bd0b48119d1558b7b7b25cf99800e5f067aa755fb1"
 metafile = true
 
 [[files]]
+file = "resourcepacks/xaerocobblemoniconsfr.pw.toml"
+hash = "7cb7d9c02d2b5fb7f3eb3cdda06d324d3f9acc3364b648e7d21d950051176227"
+metafile = true
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
 hash = "1030b750ec628e4e5d89ce7199c0c31232999fd1b88863448df2eec9160ef0ad"
 
