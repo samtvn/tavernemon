@@ -430,7 +430,7 @@ hash = "13284722e8454052a8565742d0a37671d8a37e308904dae5f67850395475fa87"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "984d3d275453cd28ce39aa30a3f71e951bc7c1117ab29cffcb1bd7c2602d8c4d"
+hash = "666bf4e29daad5833ff874759c3a41db0e7b15daf6df75e72067d100eb95b875"
 
 [[files]]
 file = "config/cobblemon/spawning/best-spawner-config.json"
@@ -1374,7 +1374,7 @@ hash = "5fb260fc8d2286e9b393f83f68e6d2acba4326385527c6ad11747e726ed780ae"
 
 [[files]]
 file = "config/pokemonRideConfig.json"
-hash = "70a0ea0c2335761544c750c5a6721af7f47fda85fb0672431dcb77b9040a7f2d"
+hash = "cc348334fbb2af8fd6796c27eca66188978e9927f580a4416db01c3aeee55c0d"
 
 [[files]]
 file = "config/power_config.json5"
@@ -1402,7 +1402,7 @@ hash = "5ee72b4a60ef14ff8a52bd76969e46d125a4431e63e1435a602663b0fd476317"
 
 [[files]]
 file = "config/roles.json"
-hash = "719628fb73202d9811d6f990fb660520095afb3aa8274e081df9ad315997a457"
+hash = "6947ac8b679c10a47121bf3ba4e7165a7940d57d9ba335ade02c98a2877433b2"
 
 [[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
@@ -2798,3 +2798,7 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "88e03e129e1831e67c3961c3b17c1bc682e8d8c29570fe9e021f5952dff69fd9"
 metafile = true
+
+[[files]]
+file = "world/pokemonRideConfig.json"
+hash = "44617cdffdaf5f2e183b5ec1883d08c3be68eb7c8eefd6cb2da3627c87cda553"
