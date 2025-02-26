@@ -41,50 +41,6 @@ file = "config/Veinminer/update/veinminer-fabric-2.1.5.jar"
 hash = "ae48c7b41ddb7a672bc6993163241086e97168cd471deb611406c04be2f8595f"
 
 [[files]]
-file = "config/academy/biome_groups.json"
-hash = "e7354c22e472194e40ad0f6c40db5d2ef5fd294e752a3823911161f4d4f33279"
-
-[[files]]
-file = "config/academy/dueling.json"
-hash = "d1b88c8bba62657a26c425948c8b25f744c8b4c7753f2ed61f43dcc59ad63aef"
-
-[[files]]
-file = "config/academy/ec_cobblemon.json"
-hash = "0bba3c939a3ce8c3c2ef69d53cb93a361baf0a88c77b9410d6979cb96345c285"
-
-[[files]]
-file = "config/academy/entity_groups.json"
-hash = "e7354c22e472194e40ad0f6c40db5d2ef5fd294e752a3823911161f4d4f33279"
-
-[[files]]
-file = "config/academy/item_groups.json"
-hash = "e7354c22e472194e40ad0f6c40db5d2ef5fd294e752a3823911161f4d4f33279"
-
-[[files]]
-file = "config/academy/npc.json"
-hash = "7992a26cba58e104b4ce5ec5ce17081291b82e7d8275bb616ebc7afd39a88196"
-
-[[files]]
-file = "config/academy/pokemon_spawn.json"
-hash = "f7b01380d662f25f01d48eb0c7666d6bd68da41955b09011eb4411f4c29510d0"
-
-[[files]]
-file = "config/academy/safari.json"
-hash = "fa29f051b1e828730ff100083b38f5ea72794a95513caf493e10803c9915e9cb"
-
-[[files]]
-file = "config/academy/starter_raffle.json"
-hash = "cc1e6914f59bdd1137902258aaa63612c41b29dd8890a5871fa465fd9d0635e8"
-
-[[files]]
-file = "config/academy/tile_groups.json"
-hash = "e7354c22e472194e40ad0f6c40db5d2ef5fd294e752a3823911161f4d4f33279"
-
-[[files]]
-file = "config/academy/wardrobe.json"
-hash = "d639d8e7433b4f1121a55353ae260cc47397641a5fb6ef3bc1ebe0fb3972fc61"
-
-[[files]]
 file = "config/advancementplaques-common.toml"
 hash = "44e2424c29b68fdd723e84d3dfa395be105d53424544496e5e898073dd743cf8"
 
@@ -427,30 +383,6 @@ hash = "4d56bd808ac8d83b94d2626c76ed0e2d3cc0241fb15d829ef35524a29c2452b0"
 [[files]]
 file = "config/cobblemizer/cobblemizer_config.properties"
 hash = "13284722e8454052a8565742d0a37671d8a37e308904dae5f67850395475fa87"
-
-[[files]]
-file = "config/cobblemon/main.json"
-hash = "666bf4e29daad5833ff874759c3a41db0e7b15daf6df75e72067d100eb95b875"
-
-[[files]]
-file = "config/cobblemon/spawning/best-spawner-config.json"
-hash = "4bb5e668c08d17a786ede5cc6a5dd01db5c0002743d773e3d5ac1d30edf8da76"
-
-[[files]]
-file = "config/cobblemon/starters.json"
-hash = "5483f15ffa5760cc4eb9c452a8aa9c46d86c520d52308a1674c9eb03e7fc54ab"
-
-[[files]]
-file = "config/cobblemon/unchained/hiddenBooster.json"
-hash = "5e926915ecf30c16f44ca501ae5aa05ea4baabda13a2ceb4cef727125e02f129"
-
-[[files]]
-file = "config/cobblemon/unchained/ivBooster.json"
-hash = "1ecd4c71948ee7df20a347ca495a96e6f415526eea890fcdbbe0536d4fcec0a0"
-
-[[files]]
-file = "config/cobblemon/unchained/shinyBooster.json"
-hash = "bb470b23ed654ef93f03b30f7e90f872adffec6e4f1ddacc2c9faf5012b0ed07"
 
 [[files]]
 file = "config/cobblemonintegrations-common-1.toml.bak"
