@@ -1,0 +1,61 @@
+{
+  "useImpactorDefaultCurrency": true,
+  "impactorCurrencyName": "impactor:huntcoins",
+  "individualHunts": false,
+  "sendHuntEndMessage": false,
+  "sendHuntBeginMessage": false,
+  "timerCooldowns": true,
+  "bufferDuration": 5,
+  "huntDuration": 120,
+  "huntAmount": 14,
+  "rarity": {
+    "common": 60,
+    "uncommon": 30,
+    "rare": 9,
+    "ultraRare": 1
+  },
+  "rewards": {
+    "common": {
+      "price": 300.0,
+      "commands": [
+        "give {player} numismatic-overhaul:silver_coin 3"
+      ]
+    },
+    "uncommon": {
+      "price": 500.0,
+      "commands": [
+        "give {player} numismatic-overhaul:silver_coin 5"
+      ]
+    },
+    "rare": {
+      "price": 1000.0,
+      "commands": [
+        "give {player} numismatic-overhaul:silver_coin 10"
+      ]
+    },
+    "ultraRare": {
+      "price": 3000.0,
+      "commands": [
+        "give {player} numismatic-overhaul:silver_coin 30"
+      ]
+    }
+  },
+  "matchProperties": {
+    "ability": false,
+    "gender": false,
+    "nature": false,
+    "shiny": false
+  },
+  "customPrices": [
+    {
+      "species": "ditto",
+      "form": "",
+      "reward": {
+        "price": 10000.0,
+        "commands": []
+      }
+    }
+  ],
+  "blacklist": [],
+  "version": "1.2.1"
+}
