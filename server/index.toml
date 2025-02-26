@@ -2798,7 +2798,3 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "88e03e129e1831e67c3961c3b17c1bc682e8d8c29570fe9e021f5952dff69fd9"
 metafile = true
-
-[[files]]
-file = "world/pokemonRideConfig.json"
-hash = "44617cdffdaf5f2e183b5ec1883d08c3be68eb7c8eefd6cb2da3627c87cda553"
