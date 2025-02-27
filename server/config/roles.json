@@ -13,7 +13,9 @@
   "everyone": {
     "overrides": {
       "commands": {
-        "enhancedcelestials lunarForecast": "allow"
+        "enhancedcelestials lunarForecast": "allow",
+	"pwiki": "allow",
+	"htm": "allow"
       }
     }
   }

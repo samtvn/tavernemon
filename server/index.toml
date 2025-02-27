@@ -1402,7 +1402,7 @@ hash = "5ee72b4a60ef14ff8a52bd76969e46d125a4431e63e1435a602663b0fd476317"
 
 [[files]]
 file = "config/roles.json"
-hash = "6947ac8b679c10a47121bf3ba4e7165a7940d57d9ba335ade02c98a2877433b2"
+hash = "96c14b463ba67600aaf7eaca04d122932992356590131f909f7dba817f971ae5"
 
 [[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
@@ -2692,6 +2692,11 @@ metafile = true
 [[files]]
 file = "mods/veinminer.pw.toml"
 hash = "60b8cb84d4094385a0eff4c8d864152bccb0cf06c9600b18d06c7769fa0e6d5e"
+metafile = true
+
+[[files]]
+file = "mods/wanteditems.pw.toml"
+hash = "430e58dd94266a78375b81b96461238a34958a70beeb1b5b65e6bcafe0202b88"
 metafile = true
 
 [[files]]
