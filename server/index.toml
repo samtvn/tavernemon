@@ -1714,7 +1714,7 @@ hash = "d50a004c752165cfbe5f1f542ea64eaeaf4c8341bf7a6bf4c36941b607fa0930"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "7d09d0e992343aeff67224406c5c65dcac69b90f414e3f43755a6e9b3c67310d"
+hash = "91e1a3cec4e89b1b2483e0f0b5e6ca6a5527c0da5f9f56efcfb28a063094f639"
 
 [[files]]
 file = "config/waystones-common.toml.bak1"
