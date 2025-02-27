@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/MythsAndLegends/config.toml"
-hash = "0f3fd9bf340ca4240d69b3dc26295089e5b61750a7aa2c8385334733212081b4"
+hash = "2508c66547e25181172af853a885ec14c9a499c811c06eb7dcb672b6daa96e6a"
 
 [[files]]
 file = "config/MythsAndLegends/debts.json"
@@ -462,7 +462,7 @@ hash = "3087476a887ada29b357c810c38efb64f4a0913d838feda30c4b926ddbe7e74e"
 
 [[files]]
 file = "config/mega_showdown-common.toml"
-hash = "c42ce1c28b76e488168b337386476a52902efb7a06d0878ff7458a0b41ccd54a"
+hash = "e3e60b0e4fa22b55cf4dd929b4b9efdef8a932cab09a1fd789446ceabd53d67f"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -1512,11 +1512,6 @@ metafile = true
 [[files]]
 file = "mods/wwoo.pw.toml"
 hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
-metafile = true
-
-[[files]]
-file = "mods/xaeroplus.pw.toml"
-hash = "a45d688bdb4d52382c527706173ef263510b07bcbbb4eb5bde9eb68c265cb06b"
 metafile = true
 
 [[files]]

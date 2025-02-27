@@ -1,6 +1,6 @@
 # Enable multiple megas at one time
 # Allowed values: true, false - Default: false
-multipleMegas = false
+multipleMegas = true
 
 # Enable mega evolution only for battles
 # Allowed values: true, false - Default: false

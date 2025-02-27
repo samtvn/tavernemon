@@ -30,7 +30,7 @@ inventory_check_item_list = [
   "cobblemon:never_melt_ice"
 ]
 # Determines if broadcasting features are enabled. This includes all types of notifications specified in 'broadcast_settings'. Enables or disables the entire broadcasting system. Possible values: true, false. Default: false
-isBroadcastEnabled = false
+isBroadcastEnabled = true
 
 # Configures specific broadcast messages for Pokemon spawns. Each option enables or disables broadcasts for different categories of Pokemon (Legendary, Mythical, Ultra Beast), or provides additional information (Shiny status, level). Adjust these settings to customize what details are broadcasted when Pokemon spawn.
 broadcast_settings = [
