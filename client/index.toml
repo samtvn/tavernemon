@@ -1062,6 +1062,11 @@ hash = "3484715e35513af94dc5844829126d3457106e31c7fed10e8c0de80606b235b7"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "ab228cf647f11735db9cb3f81d09a2fa099346cc24b57210001eb31b770f66ec"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "ab2950ccf9b6dac5c4453b0830f871e2acecdbd190c5ef7e3871dc347384ae7d"
 metafile = true
