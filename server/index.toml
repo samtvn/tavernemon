@@ -1465,6 +1465,11 @@ hash = "51334b1a3f1f4bb409f53a747f88ea5890b5f4672e6b21a84c69014f96d4b70c"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "b44e89cd6be4251903a0b128b0c49bb3dc5869159fe5ef273f441a0082ebe9fd"
+metafile = true
+
+[[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "6bd2ee91767ccb6a227ae84fb3c3e62b9734cf9dff8abe10617b8b7c15514c08"
 metafile = true
